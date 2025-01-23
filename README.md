@@ -1,5 +1,18 @@
-# codelab-business-card
-Repositorio dedicado ao codelab da google Cartão de visita  
+# 💼 **Codelab - Business Card**
+
+Bem-vindo ao repositório **Codelab - Business Card**! 🚀 Este repositório é dedicado ao **Codelab da Google** para criação de um **Cartão de Visita Digital**, uma aplicação simples e elegante desenvolvida para aprender conceitos fundamentais do desenvolvimento Android. 📱
+
+---
+
+## 🎯 **Objetivo**
+
+Este projeto tem como objetivo:
+
+- 🛠️ **Aprender:** Explorar os fundamentos do desenvolvimento Android.
+- 🎨 **Criar:** Desenvolver um cartão de visita digital personalizado.
+- 📚 **Praticar:** Utilizar ferramentas modernas e boas práticas no desenvolvimento de interfaces.
+
+---
 
 
-[Business Card](https://developer.android.com/codelabs/basic-android-kotlin-compose-business-card?authuser=1&hl=pt-br&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-3%3Fhl%3Dpt-br%26authuser%3D1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-business-card#1)
+
